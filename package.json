@@ -1,0 +1,30 @@
+{
+    "name": "hollis-extension-pack",
+    "publisher": "HollisJamison",
+    "displayName": "hollis-extension-pack",
+    "description": "Hollis Jamison's VS Code extension pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dbaeumer.vscode-eslint", 
+        "dsznajder.es7-react-js-snippets", 
+        "ecmel.vscode-html-css", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-rename-tag", 
+        "kamikillerto.vscode-colorize", 
+        "leizongmin.node-module-intellisense", 
+        "oderwat.indent-rainbow", 
+        "PKief.material-icon-theme", 
+        "ritwickdey.LiveServer", 
+        "streetsidesoftware.code-spell-checker", 
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
